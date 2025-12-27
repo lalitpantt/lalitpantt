@@ -1,5 +1,15 @@
+<h1 align="center">I'm Lalit Mohan Pant</h1>
+
+<h3 align="center">
+Cybersecurity Enthusiast • B.Tech CSE (2023–2027)
+</h3>
+
+<h4 align="center">
+Student at Graphic Era Hill University
+</h4>
+
 # 💫 About Me:
-🔭 I’m currently working on  <br>Improving my problem-solving skills and building full-stack web projects as a B.Tech Computer Science student<br><br>👯 I’m looking to collaborate on  <br>Java, full-stack web development, and cybersecurity-related projects<br><br>🤝 I’m looking for help with  <br>Writing clean backend logic, understanding system design basics, and structuring real-world projects<br><br>🌱 I’m currently learning  <br>Advanced Java,  Advanced cybersecurity concepts, backend development best practices, and core CS fundamentals<br><br>💬 Ask me about  <br>C, C++, Java, OOPS, backend development, and basic cybersecurity<br><br>⚡ Fun fact  <br>I hit the gym early morning 🏋️‍♂️ and debug code late at night 🌙<br>
+🔭 I’m currently working on  <br>Improving my problem-solving skills and building full-stack web projects as a B.Tech Computer Science student<br><br>👯 I’m looking to collaborate on  <br>Java, full-stack web development, and cybersecurity-related projects<br><br>🤝 I’m looking for help with  <br>Writing clean backend logic, understanding system design basics, and structuring real-world projects<br><br>🌱 I’m currently learning  <br>Advanced Java, Advanced cybersecurity concepts, backend development best practices, and core CS fundamentals<br><br>💬 Ask me about  <br>C, C++, Java, OOPS, backend development, and basic cybersecurity<br><br>⚡ Fun fact  <br>I hit the gym early morning 🏋️‍♂️ and debug code late at night 🌙<br>
 
 
 ## 🌐 Socials:
