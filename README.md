@@ -7,7 +7,7 @@ Cybersecurity Enthusiast • B.Tech CSE (2023–2027)
 
 
 # 💫 About Me:
-🔭 I’m currently working on  <br>Improving my problem-solving skills and building full-stack web projects as a B.Tech Computer Science student<br><br>👯 I’m looking to collaborate on  <br>Java, full-stack web development, and cybersecurity-related projects<br><br>🤝 I’m looking for help with  <br>Writing clean backend logic, understanding system design basics, and structuring real-world projects<br><br>🌱 I’m currently learning  <br>Advanced Java, cybersecurity fundamentals, backend best practices, and core CS concepts<br><br>💬 Ask me about  <br>C, C++, Java, OOPS, backend development, and basic cybersecurity<br><br>⚡ Fun fact  <br>I hit the gym early morning 🏋️‍♂️ and debug code late at night 🌙<br>
+🔭 I’m currently working on  <br>Improving my Data Structures & Algorithms skills and building practical software and full-stack projects as a B.Tech Computer Science student<br><br>👯 I’m looking to collaborate on  <br>Software development, full-stack web development, Python, Java, and cybersecurity-related projects<br><br>🤝 I’m looking for help with  <br>Writing clean and scalable backend logic, system design fundamentals, and building real-world software projects<br><br>🌱 I’m currently learning  <br>Advanced Java, backend development, cybersecurity, SQL, and core Computer Science concepts<br><br>💬 Ask me about  <br>C, C++, Java, Python, DSA, OOPS, SQL, backend development, and cybersecurity fundamentals<br><br>⚡ Fun fact  <br>I hit the gym, build projects, and spend way too much time debugging code 🏋️‍♂️💻<br>
 
 
 ## 🌐 Socials:
