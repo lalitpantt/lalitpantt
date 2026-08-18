@@ -1,26 +1,147 @@
-<h1 align="center">I'm Lalit Mohan Pant</h1>
+<h1 align="center">Hey, I'm Lalit Mohan Pant 👋</h1>
 
-<h3 align="center">
-Cybersecurity Enthusiast • B.Tech CSE (2023–2027)
-</h3>
+<p align="center">
+  <b>💻 Software Developer • 🔐 Cybersecurity Enthusiast • 🧠 DSA Learner</b>
+</p>
 
+<p align="center">
+  B.Tech Computer Science & Engineering · 2023–2027
+</p>
 
-
-# 💫 About Me:
-🔭 I’m currently working on  <br>Improving my Data Structures & Algorithms skills and building practical software and full-stack projects as a B.Tech Computer Science student<br><br>👯 I’m looking to collaborate on  <br>Software development, full-stack web development, Python, Java, and cybersecurity-related projects<br><br>🤝 I’m looking for help with  <br>Writing clean and scalable backend logic, system design fundamentals, and building real-world software projects<br><br>🌱 I’m currently learning  <br>Advanced Java, backend development, cybersecurity, SQL, and core Computer Science concepts<br><br>💬 Ask me about  <br>C, C++, Java, Python, DSA, OOPS, SQL, backend development, and cybersecurity fundamentals<br><br>⚡ Fun fact  <br>I hit the gym, build projects, and spend way too much time debugging code 🏋️‍♂️💻<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pantt-lalit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@lalit55329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantlalit051@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lalitpantt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lalitpantt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpantt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/lalitpantt">
+    <img src="https://img.shields.io/github/followers/lalitpantt?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lalitpantt&style=for-the-badge&color=blueviolet">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lalitpantt&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Computer Science student** who enjoys turning ideas into practical software.
+
+* 🔭 Currently working on **DSA, backend development & full-stack projects**
+* 🌱 Learning **Advanced Java, Backend Development, SQL & Cybersecurity**
+* 💻 Interested in **Software Engineering & Secure Systems**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🤝 Open to collaborating on **Web Development, Java, Python & Cybersecurity projects**
+* 🎯 Goal: **Become a strong Software Engineer with a cybersecurity mindset**
+* ⚡ Fun fact: **Gym → Code → Debug → Repeat 🏋️‍♂️💻**
+
+---
+
+## 🧩 What I Do
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🧠 DSA              → Problem Solving                │
+│   💻 Development      → Full-Stack Applications        │
+│   ⚙️ Backend          → APIs & Server-Side Logic       │
+│   🔐 Cybersecurity    → Secure Software Fundamentals   │
+│   📚 CS Fundamentals  → OOP • DBMS • OS • Networks     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity Interests
+
+```text
+🔒 Web Security
+🔑 Authentication & Authorization
+🛡️ Secure Backend Development
+🌐 Network Security Fundamentals
+📜 Digital Signatures & PKI
+🔐 Cryptography Fundamentals
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitpantt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpantt&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lalitpantt&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 What I'm Working Toward
+
+> **"Build software that is useful, scalable and secure."**
+
+I'm continuously improving my problem-solving skills while building real-world applications and strengthening my understanding of **Computer Science + Software Engineering + Cybersecurity**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/pantt-lalit">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/lalit55329">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pantlalit051@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💻 Code. 🔐 Secure. 🚀 Build. Repeat.</b>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories!
+</p>
